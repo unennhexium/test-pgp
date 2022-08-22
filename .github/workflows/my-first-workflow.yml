@@ -2,7 +2,7 @@ name: quickstart for github actions
 on: [pull_request, push]
 jobs:
   explore-github-actions:
-  - name: explore github actions
+    name: explore github actions
     environment: my-environment
     runs-on: self-hosted
     steps:
