@@ -1,8 +1,9 @@
-name: Quickstart for GitHub Actions
+name: quickstart for github actions
 on: [pull_request, push]
-environment: my-environment
 jobs:
-  Explore-GitHub-Actions:
+  explore-github-actions:
+  - name: explore github actions
+    environment: my-environment
     runs-on: self-hosted
     steps:
       - run: echo '${{ toJSON(github) }}'
