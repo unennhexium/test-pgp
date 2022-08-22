@@ -1,5 +1,6 @@
 name: Quickstart for GitHub Actions
 on: [pull_request, push]
+environment: my-environment
 jobs:
   Explore-GitHub-Actions:
     runs-on: self-hosted
