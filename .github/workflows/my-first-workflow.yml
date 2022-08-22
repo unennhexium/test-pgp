@@ -8,5 +8,5 @@ jobs:
     steps:
       - run: echo '${{ toJSON(github) }}'
       - uses: actions/checkout@v3
-      - run: echo '☮🤍'
+      - run: echo '☮🤍💮'
 
