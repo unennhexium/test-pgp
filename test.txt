@@ -4,6 +4,8 @@ third line
 new changes available
 extra changes
 deny bypass
+approval required
+new
 wut
 w
 u
