@@ -8,3 +8,4 @@ wut
 w
 u
 t
+auto
